@@ -22,7 +22,7 @@ export default function Simple() {
           <Title order={3} color="blue.5">
             Double setState Funny Way
           </Title>
-          <Alert severity="info">{count}</Alert>
+          <Alert severity="warning">{count}</Alert>
           <Button size="small" onClick={add} variant="contained">
             ADD COUNT
           </Button>

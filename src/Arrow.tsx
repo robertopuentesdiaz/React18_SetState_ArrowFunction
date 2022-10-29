@@ -27,7 +27,7 @@ export default function Arrow() {
           <Title order={3} color="blue.5">
             Double setState Arrow Way
           </Title>
-          <Alert severity="info">{count}</Alert>
+          <Alert severity="success">{count}</Alert>
           <Button size="small" onClick={add} variant="contained">
             ADD COUNT
           </Button>
