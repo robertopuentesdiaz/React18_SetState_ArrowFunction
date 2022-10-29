@@ -1,3 +1,7 @@
 # React18_SetState_ArrowFunction
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-ku9v9m)
+Difference between use or not an Arrow Function as param of setState
+
+Is important ?
+
+Let find out!
